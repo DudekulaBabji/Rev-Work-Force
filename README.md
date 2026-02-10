@@ -49,12 +49,13 @@ The project follows a layered architecture:
 - Data Persistence Layer (MySQL Database)
 
 ## Project Structure
-com.revature.revworkforce
-├── controller
-├── service
-├── dao
-├── model
-├── util
+
+com.revworkforce  
+├── model  
+├── dao  
+├── service  
+├── util  
+└── main  
 
 
 ## How to Run
