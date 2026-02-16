@@ -80,6 +80,17 @@ com.revworkforce
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Import the project into Eclipse  
+3. Configure MySQL database and create required tables  
+4. Update database credentials in DBConnection  
+5. Run Main.java  
+6. Use the console menu to interact with the application  
+
+---
+
 ## 👨‍💻 Author
 
 **Dudekula Babji**  
